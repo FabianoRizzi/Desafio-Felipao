@@ -4,7 +4,7 @@ ___
 ___
 ### Explicação
 Consiste na criação de um código onde o mostra o Rank de Herói conforme o XP.
-E no fim imprimi na tela a descrição do nome do jogador, XP e Rank atual.
+E no fim imprime na tela a descrição do nome do jogador, XP e Rank atual.
 
 | XP | Rank |
 |:---| :--- |
@@ -16,3 +16,6 @@ E no fim imprimi na tela a descrição do nome do jogador, XP e Rank atual.
 | >=8.001 e <=9.000 | Ascendente |
 | >=9.001 e <=10.000 | Imortal |
 | >=10.001 | Radiante |
+
+Exemplo:
+"O jogador MetallicLion tem 1000 de XP e seu Rank é classificado como Ferro"
