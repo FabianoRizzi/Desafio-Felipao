@@ -1,8 +1,8 @@
 let NomeJogador = "MetallicLion";
-let XP = 5003;
+let XP = 1000;
 let Rank = "";
 
-if (XP < 1000) {
+if (XP <= 1000) {
     Rank = "Ferro";
 } 
 else if (XP >= 1001 && XP <= 2000) {
